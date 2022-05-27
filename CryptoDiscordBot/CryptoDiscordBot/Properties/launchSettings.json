@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CryptoDiscordBot": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
